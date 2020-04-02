@@ -1,0 +1,11 @@
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\bin\Debug\netcoreapp2.1\GRPCClient.deps.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\bin\Debug\netcoreapp2.1\GRPCClient.runtimeconfig.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\bin\Debug\netcoreapp2.1\GRPCClient.runtimeconfig.dev.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\bin\Debug\netcoreapp2.1\GRPCClient.dll
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\obj\Debug\netcoreapp2.1\GRPCClient.csprojAssemblyReference.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\obj\Debug\netcoreapp2.1\GRPCClient.csproj.CoreCompileInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\obj\Debug\netcoreapp2.1\GRPCClient.AssemblyInfoInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\obj\Debug\netcoreapp2.1\GRPCClient.AssemblyInfo.cs
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\bin\Debug\netcoreapp2.1\GRPCClient.pdb
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\obj\Debug\netcoreapp2.1\GRPCClient.dll
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCClient\obj\Debug\netcoreapp2.1\GRPCClient.pdb

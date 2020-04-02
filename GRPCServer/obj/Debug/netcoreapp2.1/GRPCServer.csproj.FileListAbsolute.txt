@@ -1,0 +1,10 @@
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.deps.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.runtimeconfig.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.runtimeconfig.dev.json
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.dll
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.csproj.CoreCompileInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.AssemblyInfoInputs.cache
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.AssemblyInfo.cs
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\bin\Debug\netcoreapp2.1\GRPCServer.pdb
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.dll
+C:\Users\hetulpatel\Desktop\GRPC\GRPCDemoProject\GRPCServer\obj\Debug\netcoreapp2.1\GRPCServer.pdb

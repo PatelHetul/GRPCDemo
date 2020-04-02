@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp2.1/RouteGuide.cs \
+obj\Debug\netcoreapp2.1/RouteGuideGrpc.cs: ../Protos/route_guide.proto
